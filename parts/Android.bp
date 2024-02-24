@@ -17,7 +17,7 @@ android_app {
     min_sdk_version: "33",
 
     static_libs: [
-        "org.pixelexperience.settings.resources",
+        "org.lineageos.settings.resources",
     ],
 
     optimize: {
