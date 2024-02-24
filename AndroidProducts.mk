@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_oxygen.mk
+    $(LOCAL_DIR)/afterlife_oxygen.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_oxygen-user \
-    aosp_oxygen-userdebug \
-    aosp_oxygen-eng
+    afterlife_oxygen-user \
+    afterlife_oxygen-userdebug \
+    afterlife_oxygen-eng
